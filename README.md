@@ -15,7 +15,7 @@ Projeto realizado durante a 4ª e ultima aula do Intensivão de JavaScript da [H
 
 
 
-![WebChat](https://github.com/GuilhermeF-R/WebChat/assets/136031870/13386de5-3501-4390-9354-093859b74689)
+![WebChat](https://github.com/GuilhermeF-R/WebChat/assets/136031870/605c3877-66ab-4b8a-9bc0-4d74f58ec47a)
 
 
 
