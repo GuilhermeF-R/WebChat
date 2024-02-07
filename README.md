@@ -5,6 +5,7 @@ Projeto realizado durante a 4ª e ultima aula do Intensivão de JavaScript da [H
 
 + Envie e receba mensagens
 + Se você deseja comunicar-se com seus dispositivos na mesma rede, você pode fazer isso facilmente modificando uma linha de código. Localize a seguinte linha no código: "serverhttp.listen(1007);" e adicione o seu endereço de IPv4 como um parâmetro: "serverhttp.listen(1007, 'xxx-xxx-xx.x');" Após fazer essa modificação, rode o código com 'node ./server.js'. Depois disso, você pode acessar o servidor digitando o seu IPv4, seguido por ":1007", no navegador do seu PC, como por exemplo "xxx-xxx-xx.x:1007". Depois de acessar o servidor pelo seu PC, você também poderá acessá-lo em dispositivos móveis que estejam conectados à mesma rede, utilizando o mesmo IPv4 seguido por ":1007"
++ Será notificado no terminal sempre que um usuário acessar um site.
 
 
 
@@ -14,6 +15,7 @@ Projeto realizado durante a 4ª e ultima aula do Intensivão de JavaScript da [H
 
 
 
+![WebChat](https://github.com/GuilhermeF-R/WebChat/assets/136031870/a9b64643-f181-4adc-b171-a8bdd79faa17)
 
 
 
